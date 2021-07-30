@@ -1,0 +1,1 @@
+print([dim for dim in open("2.txt").read().split("\n").split("x")])
